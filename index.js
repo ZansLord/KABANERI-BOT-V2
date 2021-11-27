@@ -494,7 +494,7 @@ ${p}🦌${prefix}tourl${p}
 ${p}🐴${prefix}transformer${p}
 ${p}🐯${prefix}ttp${p}
 ${p}🦁${prefix}tts${p}
-${p}🐱${prefixvampire${p}
+${p}🐱${prefix}vampire${p}
 ${p}🦊${prefix}viewonce${p}
 ${p}🐺${prefix}warrior${p}
 ${p}🐶${prefix}wooden${p}
@@ -674,7 +674,6 @@ UPDATE BOT TERBARU DI https://github.com/ZansLord
 
   
 🔰 -----[ *POWERED BY KABANERI-BOT ]----- 🔰`
-`
 const pebz2 = {
             contextInfo: {
             participant: '0@s.whatsapp.net',
